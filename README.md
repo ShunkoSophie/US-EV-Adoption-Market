@@ -29,7 +29,7 @@ Trend & Insights
 - Among alternative fuels, ethanol has the most significant presence, particularly when compared with biodiesel. Hydrogen remains a niche category.
 
 # Recommendation
-While the top five states with the highest EV adoption rates present attractive opportunities for EV businesses, market entry decisions should also consider factors such as competition, operating costs, regulations, infrastructure, and overall market potential. From this perspective, states such as Texas and Florida could also be promising markets, given their growing EV adoption, large consumer markets, and relatively limited public transportation options.  
+While the top five states with the highest EV adoption rates present attractive opportunities for EV businesses, market entry decisions should also consider factors such as competition, operating costs, regulations, infrastructure, and overall market potential. From this perspective, states such as Texas and Florida could also be promising markets, given their growing EV adoption, large consumer markets, and relatively limited public transportation options. In addition, businesses should consider the meaningful presence and growing adoption of alternative fuels, particularly ethanol. States with strong ethanol usage may present opportunities for businesses exploring diversified and complementary clean-fuel solutions alongside EVs.
 
 # Tools & Technologies
 - Excel
